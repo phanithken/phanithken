@@ -17,8 +17,8 @@ Love Open Source ❤️ !!
 * Linux / shell / bash / zsh
 
 ### Interested in
-* computer vision
-* quantum computing
+* Computer Vision
+* Metal, OpenGL, WebGL
 * Reactive Extension
 
 <!--
