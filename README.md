@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-I'm PK, a software developer
+I'm PK, a software developer  
 Love Open Source ❤️ !!
-
-+ [ ] @quadcojp
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenphanith&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
