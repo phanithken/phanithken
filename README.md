@@ -1,5 +1,26 @@
 ### Hi there 👋
 
+I'm PK, a software developer.
+Love Open Source ❤️ !!
+
+[![PK's github stats](https://github-readme-stats.vercel.app/api?username=kenphanith)](https://github.com/anuraghazra/github-readme-stats)
+
+### :computer: Tech Stack
+* Javascript / Vue.js / React.js / Electron.js / Node.js
+* Swift / Android / Flutter / React Native 
+* C# / UWP
+* Python / GO
+* PHP / Laravel
+* MySQL / Realm
+
+### Currently Learning
+* Linux / shell / bash / zsh
+
+### Interested in
+* computer vision
+* quantum computing
+* Reactive Extension
+
 <!--
 **kenphanith/kenphanith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,3 +36,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenphanith&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
