@@ -13,10 +13,10 @@ Love Open Source ❤️ !!
 * PHP / Laravel
 * MySQL / Realm
 
-### Currently Learning
+### :mortar_board: Currently Learning
 * Linux / shell / bash / zsh
 
-### Interested in
+### :gift_heart: Interested in
 * Computer Vision
 * Metal, OpenGL, WebGL
 * Reactive Extension
