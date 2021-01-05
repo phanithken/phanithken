@@ -13,9 +13,10 @@ Love Open Source ❤️ !!
 
 ### :mortar_board: Currently Learning
 * Linux / shell / bash / zsh
+* C++
 
 ### :gift_heart: Interested in
-* Computer Vision
+* Computer Vision / Robotic
 * Metal, OpenGL, WebGL
 * Reactive Extension
 
