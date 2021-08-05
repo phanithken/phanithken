@@ -10,6 +10,7 @@ Love Open Source ❤️ !!
 * Python / GO
 * PHP / Laravel
 * MySQL / Realm
+* Elixir, Phoenix
 
 ### :mortar_board: Currently Learning
 * Linux / shell / bash / zsh
