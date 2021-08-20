@@ -11,6 +11,7 @@ Love Open Source ❤️ !!
 * PHP / Laravel
 * MySQL / Realm
 * Elixir / Phoenix
+* DevOps
 
 ### :mortar_board: Currently Learning
 * Linux / shell / bash / zsh
