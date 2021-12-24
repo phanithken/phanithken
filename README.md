@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi fellow tech crews 👋
 
 I'm PK, a software developer  
 Love Open Source ❤️ !!
@@ -11,7 +11,7 @@ Love Open Source ❤️ !!
 * PHP / Laravel
 * MySQL / Realm
 * Elixir / Phoenix
-* DevOps
+* DevOps / CircleCI / GitlabCI / Jenkins / Docker swarm / Kubernetes
 
 ### :mortar_board: Currently Learning
 * Linux / shell / bash / zsh
